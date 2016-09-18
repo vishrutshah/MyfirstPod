@@ -1,0 +1,22 @@
+{
+  "name": "MyfirstPod",
+  "version": "0.1.0",
+  "summary": "A short description of MyfirstPod.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/<GITHUB_USERNAME>/MyfirstPod",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Vishrut Shah": "vissha@microsoft.com"
+  },
+  "source": {
+    "git": "https://github.com/<GITHUB_USERNAME>/MyfirstPod.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "MyfirstPod/Classes/**/*"
+}
