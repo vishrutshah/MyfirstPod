@@ -21,7 +21,7 @@ Pod::Spec.new do |s|
 Here is my long description of my first pod.
                        DESC
 
-  s.homepage         = 'https://github.com/<GITHUB_USERNAME>/MyfirstPod'
+  s.homepage         = 'https://github.com/vishrutshah/MyfirstPod'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'Vishrut Shah' => 'vissha@microsoft.com' }
