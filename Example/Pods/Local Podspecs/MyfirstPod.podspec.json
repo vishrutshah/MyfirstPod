@@ -1,9 +1,9 @@
 {
   "name": "MyfirstPod",
   "version": "0.1.0",
-  "summary": "A short description of MyfirstPod.",
-  "description": "TODO: Add long description of the pod here.",
-  "homepage": "https://github.com/<GITHUB_USERNAME>/MyfirstPod",
+  "summary": "MyfirstPod is my first pod.",
+  "description": "Here is my long description of my first pod.",
+  "homepage": "https://github.com/vishrutshah/MyfirstPod",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
@@ -12,7 +12,7 @@
     "Vishrut Shah": "vissha@microsoft.com"
   },
   "source": {
-    "git": "https://github.com/<GITHUB_USERNAME>/MyfirstPod.git",
+    "git": "https://github.com/vishrutshah/MyfirstPod.git",
     "tag": "0.1.0"
   },
   "platforms": {
