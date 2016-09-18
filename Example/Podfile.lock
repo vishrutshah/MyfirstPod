@@ -1,7 +1,10 @@
 PODS:
-  - MyfirstPod (0.1.0)
+  - Alamofire (4.0.0)
+  - MyfirstPod (0.1.0):
+    - Alamofire (~> 4.0)
 
 DEPENDENCIES:
+  - Alamofire (~> 4.0)
   - MyfirstPod (from `../`)
 
 EXTERNAL SOURCES:
@@ -9,8 +12,9 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  MyfirstPod: dc465e1e9cd26b9167d5bb4f7c58a5eae3b0bfec
+  Alamofire: fef59f00388f267e52d9b432aa5d93dc97190f14
+  MyfirstPod: c0558dacc24023d80f750211c290d158673dc7b0
 
-PODFILE CHECKSUM: bc6f1a472d876aa169ebb230aeaf4a820ed6b866
+PODFILE CHECKSUM: 8961ae726f44f176cf43f6323ef61d7105a8d122
 
 COCOAPODS: 1.0.1

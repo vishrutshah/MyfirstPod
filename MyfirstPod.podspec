@@ -28,7 +28,7 @@ Here is my long description of my first pod.
   s.source           = { :git => 'https://github.com/vishrutshah/MyfirstPod.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
-  s.ios.deployment_target = '8.0'
+  s.ios.deployment_target = '9.0'
 
   s.source_files = 'MyfirstPod/Classes/**/*'
   
@@ -38,5 +38,5 @@ Here is my long description of my first pod.
 
   # s.public_header_files = 'Pod/Classes/**/*.h'
   # s.frameworks = 'UIKit', 'MapKit'
-  # s.dependency 'Alamofire', '~> 3.0'
+  s.dependency 'Alamofire', '~> 4.0'
 end

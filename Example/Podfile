@@ -2,7 +2,7 @@ use_frameworks!
 
 target 'MyfirstPod_Example' do
   pod 'MyfirstPod', :path => '../'
-  # pod 'Alamofire', '~> 3.0'
+  pod 'Alamofire', '~> 4.0'
 
   target 'MyfirstPod_Tests' do
     inherit! :search_paths
